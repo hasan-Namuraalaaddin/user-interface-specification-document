@@ -4,10 +4,8 @@
 ##### Button at Left-Top
 It's contains "+" icon and "New User" text.
 Button Color: Blue , Text color : White
-
-##### Custom Radio Button
-It will be beside the "new user" button at right with "Hide Disabled User" text.
-Text color : Black
+##### Custom Button
+- [x] Hide Disabled User , Text color : Black
 
 ##### Button at Right-Top
 Contains "Save User" text , Button Color: Blue , Text color : White
@@ -31,5 +29,6 @@ Contains 7 rows
 4. Row : contains "Phone" text and text form field to add username's phone number.
 5. Row : contains "Email" text and text form field to add username's Email number.
 6. Row : contains "User Roles" text and text form field with a list to select User Role (Guest, Admin or SuperAdmin).
-7. Row : contains "Enabled" text and text form field and Custom Radio Button.
+7. Row : contains "Enabled" text and text form field and Custom Radio Button like ; 
+- [x] Enabled ,
 
